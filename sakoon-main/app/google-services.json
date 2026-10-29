@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431353625662",
+    "project_id": "gen-lang-client-0543511603",
+    "storage_bucket": "gen-lang-client-0543511603.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431353625662:android:863817148c2fcaad51656f",
+        "android_client_info": {
+          "package_name": "com.aistudio.sakoon.mrhqvd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4zxcF47b2qdkXK2EyY43wb6d87XpwSNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
