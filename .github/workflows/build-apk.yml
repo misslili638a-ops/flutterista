@@ -23,7 +23,7 @@ jobs:
           gradle-version: 9.3.1
       - name: Build debug APK
         run: gradle :app:assembleDebug --no-daemon --stacktrace
-      - uses: actions/upload-artifact@v5
+      - uses: actions/upload-artifact@v6
         with:
           name: FLUTTERISTA-APK
           path: sakoon-main/app/build/outputs/apk/debug/*.apk
